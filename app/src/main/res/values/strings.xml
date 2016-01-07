@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleXMLPullParser</string>
+    <string name="hello_world">Simple XMLPullParser Activity</string>
+    <string name="action_add_employee">Add Employee</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="txt_button_save">Save changes</string>
+    <string name="txt_button_clear">clear all fields</string>
+    <string name="txt_delete_menu">delete</string>
+
+</resources>
